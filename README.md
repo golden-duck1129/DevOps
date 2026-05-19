@@ -1,6 +1,4 @@
 # DevOps
-DevOps learning repo with Kubernetes, Terraform, Ansible, and CI/CD pipelines.
-# DevOps Lab
 
 This repository contains hands-on DevOps projects including:
 
